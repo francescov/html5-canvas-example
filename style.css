@@ -1,0 +1,10 @@
+canvas {
+  border: 1px solid #000; /* for development purposes */
+}
+
+.francescov-canvas {
+	width: 200px;
+	height: 200px;
+	background-color: #333;
+	border-radius:90px;
+}
